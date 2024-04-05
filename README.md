@@ -33,10 +33,8 @@ Eu sou uma pessoa desenvolvedora full-stack...
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=larialv12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -46,6 +44,5 @@ Eu sou uma pessoa desenvolvedora full-stack...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-<img src="https://raw.githubusercontent.com/larialv12/larialv12/output/snake.svg" alt="Snake animation" />
 
 ###
