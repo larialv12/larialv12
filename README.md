@@ -1,4 +1,4 @@
-## 🚀<span> Sobre mim</span>
+## 🚀<span style ="color:purple"> Sobre mim</span>
 Eu sou uma pessoa desenvolvedora full-stack...
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -61,7 +61,6 @@ Eu sou uma pessoa desenvolvedora full-stack...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-<img src="https://raw.githubusercontent.com/larialv12/larialv12/output/snake.svg" alt="Snake animation" />
 
 ###
 
