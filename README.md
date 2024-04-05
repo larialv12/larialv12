@@ -1,1 +1,6 @@
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack...
 
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
