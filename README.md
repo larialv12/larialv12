@@ -1,6 +1,7 @@
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🛠 Habilidades
 <div align="left">
@@ -14,7 +15,6 @@ Eu sou uma pessoa desenvolvedora full-stack...
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
