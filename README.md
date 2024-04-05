@@ -29,11 +29,11 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ###
