@@ -1,4 +1,4 @@
-## 🚀<p style="color🟣> Sobre mim</p>
+## 🚀<p> Sobre mim</p>
 Eu sou uma pessoa desenvolvedora full-stack...
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
