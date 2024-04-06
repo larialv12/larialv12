@@ -1,12 +1,7 @@
 ## 🚀Sobre mim
 Eu sou uma pessoa desenvolvedora front end...
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ## 🛠 Habilidades
