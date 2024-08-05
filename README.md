@@ -1,6 +1,5 @@
 ## 🚀Sobre mim
-Atualmente cursando Análise e Desenvolvimento de Sistemas e com o objetivo de se tornar uma desenvolvedora Full-Stack .
-
+Atualmente cursando Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar uma desenvolvedora Full-Stack.
 
 
 
