@@ -1,5 +1,5 @@
 ## 🚀Sobre mim
-Eu sou uma pessoa desenvolvedora front end...
+Atualmente cursando Análise e Desenvolvimento de Sistemas e com o objetivo de se tornar uma desenvolvedora Full-Stack .
 
 
 
