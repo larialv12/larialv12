@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é {Larissa Alves}!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LARISSA ALVES&color=black&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=larialv12&color=black&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudante de Analise e Desenvolvimento de Sistemas<br/> Eu sou desenvolvedora {Full Stack}</p>
 
