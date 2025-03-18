@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Git-FF6F61?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git logo" />
 <img src="https://img.shields.io/badge/HTML-E67E22?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo" />
 <img src="https://img.shields.io/badge/Java-8E44AD?style=for-the-badge&logo=java&logoColor=white" height="40" alt="java logo" />
-<img src="https://img.shields.io/badge/MySQL-E67E22?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo" />
+<img src="https://img.shields.io/badge/MySQL-8E44AD?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo" />
 
 </div>
  
