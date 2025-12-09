@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Larissa Alves&color=8E44AD&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de Analise e Desenvolvimento de Sistemas<br/> Desenvolvimento Web {Full Stack}</p>
+<p>Estagiaria de Desenvolvimento Web </p>
 
 ## 🛠 Habilidades
 <div align="left">
