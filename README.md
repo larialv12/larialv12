@@ -9,9 +9,10 @@
 ## 🛠 Habilidades
 <div align="left">
  <img src="https://img.shields.io/badge/JavaScript-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" height="40" alt="javascript logo" />
- <img src="https://img.shields.io/badge/PHHP-8E44AD?style=for-the-badge&logo=php&logoColor=white" height="40" alt="php logo" />
 
 <img src="https://img.shields.io/badge/Bootstrap-8E44AD?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="bootstrap logo" />
+ <img src="https://img.shields.io/badge/PHP-8E44AD?style=for-the-badge&logo=php&logoColor=white" height="40" alt="php logo" />
+
 <img src="https://img.shields.io/badge/CSS-E67E22?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css3 logo" />
 <img src="https://img.shields.io/badge/Git-FF6F61?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git logo" />
 <img src="https://img.shields.io/badge/HTML-E67E22?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo" />
