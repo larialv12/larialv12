@@ -34,7 +34,7 @@ alt="Static GitHub">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=dark&hide_border=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialv12&theme=dark&hide_border=false&layout=compact"
         alt="Top Languages"
       />
     </td>
